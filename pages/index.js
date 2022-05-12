@@ -22,31 +22,31 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="http://is.hanyang.ac.kr/" className="card">
+            <h3>My major &rarr;</h3>
+            <p>Department of Information System</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className="card"
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://www.youtube.com/" className="card">
+            <h3>My Free Time &rarr;</h3>
+            <p>Watching Youtube</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.samsunglions.com/"
             className="card"
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>My Favorite Sports Team &rarr;</h3>
+            <p>Samsung Lions - ONE TEAM ONE BODY</p>
+          </a>
+
+          <a
+            href="https://www.melon.com/"
+            className="card"
+          >
+            <h3>My hobby &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Listening to Music
             </p>
           </a>
         </div>
